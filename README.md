@@ -1,4 +1,4 @@
-# Configure Notifications for Critical Incidents
+# Configuring Notifications for Critical Incidents
 
 ## Overview
 This repository demonstrates how an email notification was configured in ServiceNow to monitor critical incidents for the Infinity (HHD) service offering. The implementation focused on creating a targeted notification, dynamically resolving recipients through service ownership, and validating notification delivery through system logs.
